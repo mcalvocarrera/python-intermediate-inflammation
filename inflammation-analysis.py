@@ -5,14 +5,6 @@ import argparse
 
 from inflammation import models, views
 
-def my_func(arg1, arg1):
-    """
-    
-    """
-    coucou=1
-    return coucou
-
-
 def main(args):
     """The MVC Controller of the patient inflammation data system.
 
